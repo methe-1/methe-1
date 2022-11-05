@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @methe-1 (Med)
 - 👀 Javasctipt/Typescript are my besties YAY.. 😂, but I like Python too
 - 🌱 React 🫐 - Next 🟡 - React Native 🟪 - View 🐸
-- 💞️ Express 🌲 | Nest 🧧 | Django 📗
+- 🔙 Express 🌲 | Nest 🧧 | Django 📗
 - 📫 How to reach me ...? (even me, I'm not sure how I can reach out to myself) [ReachMeOut](https://methe-1.github.io/portfolio/) 👓
 
 <!---
