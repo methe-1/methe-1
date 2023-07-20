@@ -8,7 +8,7 @@
 methe-1/methe-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Just Created
+# Latest Personal Creation
 
 #### 1. Just Created a Next Small App where I tried all types of Data Fetching, [**check it out**](https://fifa-test-methe.vercel.app)
 ##### Link To My CSR/Fetching Summary/"article" on Notion [Client Side Render](https://locrian-haddock-df9.notion.site/How-To-CSR-Client-Side-Render-Fetch-2bc490d5b4a9482c9f70e9283e680d50)
