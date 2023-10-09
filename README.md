@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @methe-1 (Med)
-- 👀 Javascript/Typescript are my besties YAY.. 😂, but I like Python too
-- 🌱 React 🫐 - Next 🟡 - React Native 🟪 - View 🐸
-- 🔙 Express 🌲 | Nest 🧧 | Django 📗
-- 📫 How to reach out to me ...? (even me, I'm not sure how can I reach out to myself) [ReachMeOut](https://methe-1.github.io/portfolio/) 👓
+- 👋 Hi, I’m Med (@methe-1)
+- 👀 Mainly, I use Typescript, but I can also code in Python and Java.
+- 🌱 React 🫐 - Next 🟡 - View 🐸 - React Native 🟪
+- 🔙 Express 🌲 | Nest 🧧 | Django 🎋 | Spring 🍃
+- 📫 [Portfolio](https://methe-1.github.io/pf/)
 
 # Latest Personal Creation 
-      Code Katas, or Testing new Framework features.
+      Most are Code-Katas, or Testing new Framework features.
 
 ### Sevlete. Get Familiar with the Framework [Svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte)
    - Link to the [project](https://svelte-fifa-qbu97afcp-methe.vercel.app)
