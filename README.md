@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Med (@methe-1)
+- 📫 [Portfolio](https://methe-1.github.io/pf/)
 - 👀 Mainly, I use Typescript, but I can also code in Python and Java.
 - 🌱 React 🫐 - Next 🟡 - View 🐸 - React Native 🟪
 - 🔙 Express 🌲 | Nest 🧧 | Django 🎋 | Spring 🍃
-- 📫 [Portfolio](https://methe-1.github.io/pf/)
 
 # Latest Personal Creation 
       Most are Code-Katas, or Testing new Framework features.
